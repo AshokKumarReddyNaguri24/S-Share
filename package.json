@@ -1,0 +1,12 @@
+{
+  "name": "secureshare-pwa",
+  "version": "1.0.0",
+  "description": "Secure password sharing without internet",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["pwa", "security", "password", "sharing"],
+  "author": "Ashok Kumar Reddy Naguri",
+  "license": "MIT"
+}
